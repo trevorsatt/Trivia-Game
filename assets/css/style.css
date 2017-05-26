@@ -1,0 +1,174 @@
+<<<<<<< HEAD
+body{
+  background-color: grey;
+}
+.start{
+	padding:0;		
+}
+
+
+h1{ 
+	text-align: center;
+}
+.header{
+	height: 200px;
+	width: 100%;
+
+}
+.marioImg{
+	height: 250px;
+	display: block;
+    margin:auto;
+}
+.startBtn{
+	width: 200px;
+  height: 70;
+}
+.trivSection{ 
+	margin-top: 100px;
+	text-align: center;
+ }
+ .question, .answers, .rightAnswer, .wrongAnswer, .gameOver, .score{
+ 	font-family:'Source Sans Pro', sans-serif;
+ 	padding: 30px;
+ 	font-size: 30px;
+ 	margin: 10px;
+ }
+ 
+  .answers{
+  font-family:'Source Sans Pro', sans-serif;
+  padding: 15px;
+  font-size: 18px;
+  margin: 10px;
+ }
+ 
+
+ /*buttons*/
+ .redBtn { 
+  color: white; 
+  background-color: #AFAFAF; 
+
+
+} 
+ 
+.redBtn:hover, 
+.redBtn:focus, 
+.redBtn:active, 
+.redBtn.active, 
+.open .dropdown-toggle.redBtn { 
+  color: white; 
+  background-color: #AFAFAF; 
+
+} 
+ 
+.redBtn:active, 
+.redBtn.active, 
+.open .dropdown-toggle.redBtn { 
+  background-image: none; 
+} 
+ 
+.redBtn.disabled, 
+.redBtn[disabled], 
+fieldset[disabled] .redBtn, 
+.redBtn.disabled:hover, 
+.redBtn[disabled]:hover, 
+fieldset[disabled] .redBtn:hover, 
+.redBtn.disabled:focus, 
+.redBtn[disabled]:focus, 
+fieldset[disabled] .redBtn:focus, 
+.redBtn.disabled:active, 
+.redBtn[disabled]:active, 
+fieldset[disabled] .redBtn:active, 
+.redBtn.disabled.active, 
+.redBtn[disabled].active, 
+fieldset[disabled] .redBtn.active { 
+  background-color: #AFAFAF; 
+
+} 
+ 
+.redBtn .badge { 
+  color: white; 
+  background-color: #AFAFAF; 
+=======
+
+.start{
+	padding:0;		
+}
+
+h1{ 
+	text-align: center;
+}
+.header{
+	height: 200px;
+	width: 100%;
+	border: 5px solid black;
+    border-radius: 5px;
+}
+.marioImg{
+	height: 180px;
+	display: block;
+    margin:auto;
+}
+.startBtn{
+	width: 300px;
+
+}
+.trivSection{ 
+	margin-top: 100px;
+	text-align: center;
+ }
+ .question, .answers, .rightAnswer, .wrongAnswer, .gameOver, .score{
+ 	font-family: 'Source Sans Pro', sans-serif;
+ 	padding: 30px;
+ 	font-size: 15px;
+ 	margin: 10px;
+ }
+
+ /*buttons*/
+ .redBtn { 
+  color: white; 
+  background-color: #AFAFAF; 
+
+
+} 
+ 
+.redBtn:hover, 
+.redBtn:focus, 
+.redBtn:active, 
+.redBtn.active, 
+.open .dropdown-toggle.redBtn { 
+  color: white; 
+  background-color: #AFAFAF; 
+
+} 
+ 
+.redBtn:active, 
+.redBtn.active, 
+.open .dropdown-toggle.redBtn { 
+  background-image: none; 
+} 
+ 
+.redBtn.disabled, 
+.redBtn[disabled], 
+fieldset[disabled] .redBtn, 
+.redBtn.disabled:hover, 
+.redBtn[disabled]:hover, 
+fieldset[disabled] .redBtn:hover, 
+.redBtn.disabled:focus, 
+.redBtn[disabled]:focus, 
+fieldset[disabled] .redBtn:focus, 
+.redBtn.disabled:active, 
+.redBtn[disabled]:active, 
+fieldset[disabled] .redBtn:active, 
+.redBtn.disabled.active, 
+.redBtn[disabled].active, 
+fieldset[disabled] .redBtn.active { 
+  background-color: #AFAFAF; 
+ 
+} 
+ 
+.redBtn .badge { 
+  color: white; 
+  background-color: #AFAFAF; 
+>>>>>>> 11486c924618acf896f69b867d9b53eab7e5ebea
+}
